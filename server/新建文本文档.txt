@@ -1,0 +1,5 @@
+routes/backstage是后端的路由
+plugins/db.js是一个操作数据库的文件
+models放模型  MongoDB有讲
+
+npm install cors     cors允许跨域请求
